@@ -29,17 +29,17 @@ github:
   username: Violettttee # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username:  # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Zenon
+  email: 914116285@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/ # change to your twitter homepage
+    - https://github.com/Violettttee # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -73,10 +73,10 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+# img_cdn: /assets/head.jpg #profile-wrapper
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: /assets/head.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

@@ -21,4 +21,4 @@ tags: [me]     # TAG names should always be lowercase
 
 3.数据录入规则的制定（数据录入由同学完成）
 
-知识图谱现已部署到腾讯云服务器上，[山海经知识图谱](http://111.229.114.22/#/knowledge/godmind)
+知识图谱现已部署到腾讯云服务器上，[山海经知识图谱](https://111.229.114.22/#/knowledge/godmind)
